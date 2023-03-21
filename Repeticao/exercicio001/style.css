@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(132, 132, 253);
+    color: white;
+    font: normal 15pt Arial
+}
+
+section{
+    background-color: white;
+    color: black;
+    width: 400px;
+    height: 300px;
+}
+
+div{
+   padding: 10px;
+}
