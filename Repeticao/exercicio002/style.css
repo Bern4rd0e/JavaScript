@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(132, 132, 253);
+    color: white;
+    font: normal 15pt Arial
+}
+
+h1{
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+
+div{
+   padding: 10px;
+}
